@@ -2,13 +2,6 @@
 
 📍 **Brasília, Distrito Federal, Brasil**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
 ---
 
 ### 👤 Sobre Mim
@@ -51,7 +44,7 @@ Utiliza os botões abaixo para consultar os meus projetos, acompanhar a minha ev
   <a href="https://www.linkedin.com/in/thiago-seabra-aquino-b605103b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/thiago.seabraz/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://sites.google.com/view/thiagoportifolio/p%C3%A1gina-inicial" target="_blank">
