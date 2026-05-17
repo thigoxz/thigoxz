@@ -55,7 +55,7 @@ Utiliza os botões abaixo para consultar os meus projetos, acompanhar a minha ev
 <br />
 
 <div align="center">
-  📧 **E-mail Profissional:** thiago.seaabra@gmail.com
+  📧 E-mail: thiago.seaabra@gmail.com
 </div>
 
 ---
