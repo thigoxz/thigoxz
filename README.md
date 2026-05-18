@@ -40,12 +40,17 @@ Aqui está o meu nível atual de desenvolvimento e proficiência nas ferramentas
       <sub><b>Java</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="C" />
+      <img src="https://mpgxc.github.io/learnCode/img/c.png" width="50" height="50" alt="C" />
       <br />
       <sub><b>Linguagem C</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Git" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="50" height="50" alt="GitHub" />
+      <br />
+      <sub><b>Git & GitHub</b></sub>
+    </td>
+        <td align="center" width="150">
+      <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="50" height="50" alt="GitHub" />
       <br />
       <sub><b>Git & GitHub</b></sub>
     </td>
