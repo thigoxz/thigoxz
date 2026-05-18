@@ -83,9 +83,3 @@ Utiliza os botões abaixo para consultar os meus projetos, acompanhar a minha ev
 <div align="center">
   📧 E-mail: thiago.seaabra@gmail.com
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thigoxz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thiago" />
-</div>
