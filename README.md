@@ -30,12 +30,12 @@ Aqui está o meu nível atual de desenvolvimento e proficiência nas ferramentas
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Python" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50" height="50" alt="Python" />
       <br />
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Java" />
+      <img src="https://thumbs.dreamstime.com/b/logotipo-do-%C3%ADcone-javascript-frequentemente-abreviado-como-js-%C3%A9-uma-linguagem-de-programa%C3%A7%C3%A3o-que-est%C3%A1-em-conformidade-com-204759326.jpg" width="50" height="50" alt="Java" />
       <br />
       <sub><b>Java</b></sub>
     </td>
