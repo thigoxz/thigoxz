@@ -21,15 +21,36 @@ Sou um estudante de **Ciência da Computação** (1º Semestre) baseado em Bras�
 
 ---
 
-### 💻 Competências Técnicas & Skills
+---
+
+### 🛠️ Minhas Competências & Tecnologias
 
 Aqui está o meu nível atual de desenvolvimento e proficiência nas ferramentas que utilizo no meu dia a dia de estudos:
 
-* **Lógica de Programação & Pseudocódigo** 📊 (50%)
-* **Python** 🐍 (30%)
-* **Java** ☕ (30%)
-* **Linguagem C** ⚙️ (25%)
-* **Git & GitHub** 🐙 (35%)
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Python" />
+      <br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Java" />
+      <br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="C" />
+      <br />
+      <sub><b>Linguagem C</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="50" height="50" alt="Git" />
+      <br />
+      <sub><b>Git & GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
