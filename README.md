@@ -15,7 +15,7 @@ Sou um estudante de **Ciência da Computação** (1º Semestre) baseado em Bras�
 
 ### 🎓 Formação Académica
 
-* **Bacharelado em Ciência da Computação** | UNICEUB | Cursando
+* **Bacharelado em Ciência da Computação** | CEUB | Cursando
 * **Ensino Médio** | Concluído em 2025 (Único Educacional / Sigma / Sagrado Coração de Maria)
 * **Idiomas:** Português (Nativo) & Inglês (Formado na Casa Thomas Jefferson - Brasília, DF)
 
