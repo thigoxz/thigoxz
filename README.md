@@ -6,7 +6,7 @@
 
 ### 👤 Sobre Mim
 
-Sou um estudante de **Ciência da Computação** (1º Semestre) baseado em Brasília, DF, extremamente apaixonado por tecnologia, lógica e programação. Desde cedo que a minha curiosidade me levou a explorar o funcionamento dos computadores e softwares. Atualmente, estou focado em construir uma base técnica rigorosa e estruturada para o desenvolvimento de soluções eficientes.
+Sou um estudante de **Ciência da Computação** (2º Semestre) em Brasília, DF, extremamente apaixonado por tecnologia, lógica e programação. Desde cedo que a minha curiosidade me levou a explorar o funcionamento dos computadores e softwares. Atualmente, estou focado em construir uma base técnica rigorosa e estruturada para o desenvolvimento de soluções eficientes.
 
 * 🎯 **Objetivo:** Disponível para oportunidades de estágio e projetos colaborativos.
 * 🛠️ **Foco Atual:** Aprofundar conhecimentos em algoritmos, estruturas de dados e versionamento de código.
