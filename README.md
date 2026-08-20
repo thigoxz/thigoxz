@@ -58,6 +58,20 @@ Aqui está o meu nível atual de desenvolvimento e proficiência nas ferramentas
 </table>
 
 ---
+### 💻 Meu Site & Portfólio
+
+Conheça mais sobre a minha trajetória, projetos em destaque e materiais acessando o meu site oficial:
+
+<div align="center">
+  <br />
+  <a href="https://sites.google.com/view/thiagoportifolio/p%C3%A1gina-inicial" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Acessar_Meu_Portfólio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Meu Portfólio" />
+  </a>
+  <br /><br />
+  <sub>🔗 <i>Clique no botão acima para navegar pelo meu site!</i></sub>
+</div>
+
+---
 
 ### 🌐 Conecta-te Comigo!
 
